@@ -28,11 +28,11 @@ We evaluated the model's performance using a confusion matrix.
 The model achieved an overall accuracy of **94%**, indicating strong performance in predicting customer satisfaction.
 
 To further enhance model performance, we performed hyperparameter tuning. This process involved optimizing the parameters that are not learned from the data during training. These parameters play a crucial role in influencing the learning process and can significantly impact the model's effectiveness.
-The best score achieved after hyperparameter tuning was approximately **0.9425**, reflecting a high level of accuracy in predicting customer satisfaction.
+The best score achieved after hyperparameter tuning was approximately **94.25%**, reflecting a high level of accuracy in predicting customer satisfaction.
 
 
 In the *unsupervised learning* phase, we focused on clustering algorithms to group customer feedback into distinct clusters. 
-We selected relevant features and standardized the data using StandardScaler. We calculated inertia values for KMeans clustering across different cluster numbers, observing a decreasing trend that indicated better-defined groupings with more clusters. We then applied Principal Component Analysis (PCA) to reduce dimensionality, retaining four principal components that explained approximately 72.90% of the variance. Finally, we recalculated inertia values using the PCA-transformed data to identify optimal clustering configurations.
+We selected relevant features and standardized the data using StandardScaler. We calculated inertia values for KMeans clustering across different cluster numbers, observing a decreasing trend that indicated better-defined groupings with more clusters. We then applied Principal Component Analysis (PCA) to reduce dimensionality, retaining four principal components that explained approximately **72.90%** of the variance. Finally, we recalculated inertia values using the PCA-transformed data to identify optimal clustering configurations.
 
 ## Conclusion
 The classification algorithm provided more direct and quantifiable results, making it the more effective approach for predicting customer satisfaction in this project.
