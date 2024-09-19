@@ -1,13 +1,13 @@
 # Airlines Customer Satisfaction 
 This data given by an airline organization. It includes customer feedback on various aspects of their service and flight data.
 The main goal of this project is to predict whether future customers will be satisfied based on these details. Additionally, the airline aims to identify which service aspects need improvement to increase customer satisfaction.
-We will also utilize clustering algorithms to group the feedback based on the similarities or differences between the selected variables.
+In addition, clustering algorithms were used to group the feedback based on the similarities or differences between the selected variables.
 
 The dataset used in here obtained from Kaggle. 
 
 <a href= 'https://www.kaggle.com/code/tugbakayaa/airlines-customer-satisfaction/notebook' target=_blank>You can find detailed information about the data here and see my notebook.</a>
 
-# ---
+#
 
 We approached this project through two main categories: supervised and unsupervised learning.
 
