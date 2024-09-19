@@ -5,7 +5,7 @@ In addition, clustering algorithms were used to group the feedback based on the 
 
 The dataset used in here obtained from Kaggle. 
 
-<a href= 'https://www.kaggle.com/code/tugbakayaa/airlines-customer-satisfaction/notebook' target=_blank>You can find detailed information about the data here and see my notebook.</a>
+<a href= 'https://www.kaggle.com/code/tugbakayaa/airlines-customer-satisfaction/notebook' target=_blank>You can find detailed information about the data here and see my Kaggle notebook.</a>
 
 #
 
