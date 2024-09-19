@@ -1,6 +1,6 @@
 # Airlines Customer Satisfaction 
 This data given by an airline organization. It includes customer feedback on various aspects of their service and flight data.
-The main goal of this project is to predict whether future customers will be satisfied based on these details. Additionally, the airline aims to identify which service aspects need improvement to increase customer satisfaction.
+The main goal of this project is to predict whether future customers will be satisfied based on these details.
 In addition, clustering algorithms were used to group the feedback based on the similarities or differences between the selected variables.
 
 The dataset used in here obtained from Kaggle. 
